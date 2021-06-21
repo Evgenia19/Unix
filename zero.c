@@ -9,7 +9,7 @@ int main(int argc, char *argv[]) {
 	int i = 0;
 	char symbol[1];
 	int text_cursor;
-  int fd;
+  	int fd;
 	
 	if (argc == 1) {
 		printf("Error: filename not received\n");
